@@ -1,0 +1,6 @@
+README
+
+For arm simply compile main.go on your linux box using:
+
+env GOOS=linux GOARCH=arm GOARM=5 go build
+
